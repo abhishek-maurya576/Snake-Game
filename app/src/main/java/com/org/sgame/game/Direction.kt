@@ -1,0 +1,1 @@
+// This file is no longer needed as Direction is defined in SnakeGameModel.kt
