@@ -28,13 +28,18 @@ A modern implementation of the classic Snake game for Android, built with Jetpac
 
 ## Screenshots
 
-![Main Menu](screenshots/s_game.jpg)
-![Gameplay](screenshots/s_game2.jpg)
-![Game Over](screenshots/s_game6.jpg)
-![Game Pause](screenshots/s_game5.jpg)
-![Game Type](screenshots/s_game4.jpg)
-![Game Level](screenshots/s_game3.jpg)
-![Game Over](screenshots/s_game6.jpg)
+<p align="center">
+  <img src="screenshots/s_game.jpg" alt="Main Menu" width="30%">
+  <img src="screenshots/s_game2.jpg" alt="Gameplay" width="30%">
+  <img src="screenshots/s_game3.jpg" alt="Game Level" width="30%">
+</p>
+
+<p align="center">
+  <img src="screenshots/s_game4.jpg" alt="Game Type" width="30%">
+  <img src="screenshots/s_game5.jpg" alt="Game Pause" width="30%">
+  <img src="screenshots/s_game6.jpg" alt="Game Over" width="30%">
+</p>
+
 
 ## How to Play
 
