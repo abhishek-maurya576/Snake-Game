@@ -1,0 +1,1 @@
+// This file is no longer needed as Snake functionality is in SnakeGameModel.kt
