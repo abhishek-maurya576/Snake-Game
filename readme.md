@@ -1,5 +1,5 @@
 # Snake Game for Android
-
+ 
 A modern implementation of the classic Snake game for Android, built with Jetpack Compose and Kotlin. This project recreates the nostalgic Nokia-style Snake game with enhanced graphics, multiple game modes, and a retro Nokia phone UI.
 
 ## Features
