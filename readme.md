@@ -106,7 +106,7 @@ A modern implementation of the classic Snake game for Android, built with Jetpac
 
 ## License
 
-This project is licensed under the .[MIT License](LICENSE). - see the LICENSE file for details.
+This project is licensed under the [MIT License](LICENSE) - see the LICENSE file for details.
 
 ---
 
