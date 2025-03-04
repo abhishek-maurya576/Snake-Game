@@ -14,7 +14,7 @@ A modern implementation of the classic Snake game for Android, built with Jetpac
 - **Special Food Types**:
   - Regular Food: Increases score by 1 point
   - Booster Food: Special golden food that gives 3 points
-
+ 
 - **Retro Nokia Phone UI**:
   - Authentic Nokia 3310-style interface
   - D-pad controls with responsive buttons
